@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ice Cream App.iml" filepath="$PROJECT_DIR$/Ice Cream App.iml" group="Ice Cream App" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Ice Cream App/app" />
+    </modules>
+  </component>
+</project>
